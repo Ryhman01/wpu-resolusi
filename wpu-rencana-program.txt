@@ -1,3 +1,5 @@
 RENCANA PROGRAM
 - Bikin coding
+ * Bikin Header
+ * Bikin fitur
 - Bikin database

@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Konsisten untuk belajar program
 - Membuat platform untuk pengelolaan program
 - Membuat program pertama
+- Membuat data base
+- Kolaborasi program
